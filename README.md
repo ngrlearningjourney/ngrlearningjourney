@@ -33,10 +33,6 @@
 - 🔗 **[App Development Portfolio](https://drive.google.com/file/d/1IIxAhAP5jGPhAWZrpXD5HLzqN0DHY8eW/view?usp=sharing)**: Explore the apps and website I’ve built, from research tools to functional web and iOS solutions.  
 - 🔗 **[Data Science & Machine Learning Projects](https://github.com/ngrlearningjourney/surya-wedhana-data-analysis-portofolio)**: Dive into my projects involving predictive models, data visualizations, and analytics using Python and machine learning techniques.  
 
----
-
-This way, your readers can easily access the portfolios you want to showcase in their respective areas. Just replace the `#` with the actual URLs.
-
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="42" height="42" /></a>
@@ -54,5 +50,10 @@ This way, your readers can easily access the portfolios you want to showcase in 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+
+## 📫 Get in Touch
+
+- ✉️ Email: ngrlearningjourney@gmail.com
+- 🌍 Location: Indonesia
 
 
