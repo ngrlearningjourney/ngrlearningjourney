@@ -5,11 +5,12 @@
 
 ### 📊 **Data Analytics & Machine Learning**  
 - Designed a **text classification machine learning model** with **98% accuracy** using **Create ML** on a dataset of **700,000 training instances** and **120,000 testing instances**.  
-- Cleaned and processed **4,653 rows** of employee data for the **Employee Leaving Prediction** project.  
-- Developed and evaluated classification models using **K-Nearest Neighbors (KNN)** and **Logistic Regression**, achieving **74% accuracy** with KNN and **68% accuracy** with Logistic Regression.  
+- Developed and evaluated classification models using **K-Nearest Neighbors (KNN)** and **Logistic Regression**, achieving **75% accuracy** with KNN and **72% accuracy** with Logistic Regression.  
 - Conducted detailed **exploratory analysis**, identifying insights and patterns using **Matplotlib**, **Seaborn**, and **Pandas**.  
 - Designed and developed **interactive dashboards** in **Looker Studio** for supermarket and hotel reservation analysis, delivering key insights and visualizations.  
 - Applied **data wrangling** and **EDA techniques** to datasets ranging from **1,000 to 36,275 rows**, handling missing values, duplicate records, and validating data formats.
+- Calculated correlations using **Pearson, Spearman, Point Biserial, Chi-Square with Cramér’s V, and Kendall Tau** with **SciPy and Scikit-learn**.
+- Provided insights and actionable recommendations on employee retention, supermarket sales, and student performance to drive data-informed decision-making.
 
 ### 📱 **iOS Development**  
 - Proficient in **SwiftUI** for building user-friendly interfaces.  
@@ -30,8 +31,30 @@
 
 ## 🌟 **Check Out My Work**  
 
-- 🔗 **[App Development Portfolio](https://drive.google.com/file/d/1IIxAhAP5jGPhAWZrpXD5HLzqN0DHY8eW/view?usp=sharing)**: Explore the apps and website I’ve built, from research tools to functional web and iOS solutions.  
-- 🔗 **[Data Science & Machine Learning Projects](https://github.com/ngrlearningjourney/surya-wedhana-data-analysis-portofolio)**: Dive into my projects involving predictive models, data visualizations, and analytics using Python and machine learning techniques.  
+- 🔗 **[App Development Portfolio](https://drive.google.com/file/d/1IIxAhAP5jGPhAWZrpXD5HLzqN0DHY8eW/view?usp=sharing)**: Explore the apps and website I’ve built, from research tools to functional web and iOS solutions.
+
+Data Analysis Portofolio:
+
+- **[Supermarket Sales Data Analysis Portfolio 🛒📊 ](https://github.com/ngrlearningjourney/supermarket-customer-purchase-behavior-analysis)**
+
+I analyzed sales data to uncover insights for business success:
+- 🔧 Data Wrangling: Handled missing values, verified formats, and removed outliers.
+- 📊 EDA: Explored branch performance, customer segmentation, product trends, peak hours, ratings, and payment preferences.
+- 🚀 Result: 6 key insights and recommendations to enhance supermarket owner knowledge and customer satisfaction!
+- Developed an interactive Tableau dashboard featuring 5 graphs and 3 filters to monitor product quantity sold, gross income, product ratings, branch ratings, and payment methods.
+
+
+- **[🚀 Employee Data Analysis Portfolio](https://github.com/ngrlearningjourney/company-employee-analysis)**
+
+Explored employee retention analysis uncovering trends in attrition, tenure, education, and benching. Built predictive models (KNN: 75%, Logistic Regression: 72%) to identify attrition factors. Key insights: Master's holders face challenges, experienced employees seek growth, and benching affects Payment Tier 3. Recommendations include retention strategies, upskilling, and bench optimization.
+
+- **[📚 Student Performance Analysis](https://github.com/ngrlearningjourney/student-performance-analysis)**
+
+This project dives into student performance data to uncover what drives academic excellence! Through rigorous data cleaning, correlation analysis (Pearson, Spearman, Point Biserial), and trend exploration, I revealed key factors like study hours, teacher quality, and extracurricular impact.
+✨ Highlights:
+* Discovered how attendance, tutoring, and activities shape success.
+* Delivered 5 actionable insights and recommendations to boost student outcomes.
+* Developed an interactive Tableau dashboard with 5 graphs and filters, analyzing factors like teacher quality, student physical activity, motivation, learning abilities, internet access, sleep hours, study hours, and tutoring sessions.
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
